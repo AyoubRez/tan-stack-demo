@@ -1,0 +1,126 @@
+{
+  "RPGClasses": [
+    {
+      "id": "1",
+      "name": "Warrior",
+      "role": "Bruiser"
+    },
+    {
+      "id": "2",
+      "name": "Rogue",
+      "role": "Assassin"
+    },
+    {
+      "id": "3",
+      "name": "Wizard",
+      "role": "Mage"
+    },
+    {
+      "id": "4",
+      "name": "Druid",
+      "role": "Shape Shifter"
+    },
+    {
+      "id": "5",
+      "name": "Hunter",
+      "role": "Marksman"
+    },
+    {
+      "id": "2936",
+      "name": "bard",
+      "role": "healer"
+    },
+    {
+      "id": "527e",
+      "name": "test",
+      "role": "test"
+    },
+    {
+      "id": "5825",
+      "name": "beard",
+      "role": "yuyuy"
+    }
+  ],
+  "RPGJobs": [
+    {
+      "id": "1",
+      "name": "fisherman"
+    },
+    {
+      "id": "2",
+      "name": "craftsman"
+    },
+    {
+      "id": "3",
+      "name": "lumberjack"
+    }
+  ],
+  "Players": [
+    {
+      "id": "JohnCena123",
+      "regionId": "2"
+    },
+    {
+      "id": "LetMeCarryU666",
+      "regionId": "1"
+    },
+    {
+      "id": "HideOnBush_23",
+      "regionId": "2"
+    }
+  ],
+  "Regions": [
+    {
+      "id": "1",
+      "regionName": "EUW",
+      "servers": [
+        "EUW_S1",
+        "EUW_S2",
+        "EUW_S3"
+      ]
+    },
+    {
+      "id": "2",
+      "regionName": "NA",
+      "servers": [
+        "NA_S1",
+        "NA_S2",
+        "NA_S3"
+      ]
+    }
+  ],
+  "guildMembers": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "moderator_1"
+    },
+    {
+      "id": "3",
+      "name": "moderator_2"
+    },
+    {
+      "id": "4",
+      "name": "moderator_3"
+    },
+    {
+      "id": "5",
+      "name": "member_1"
+    },
+    {
+      "id": "6",
+      "name": "member_2"
+    },
+    {
+      "id": "7",
+      "name": "member_3"
+    },
+    {
+      "id": "8",
+      "name": "member_4"
+    }
+  ]
+}
